@@ -1,6 +1,6 @@
   const mongoose=require('mongoose');
 
-     //upload 
+     //upload lll
 
        const LOCALURI="mongodb://localhost:27017/shop";
 
